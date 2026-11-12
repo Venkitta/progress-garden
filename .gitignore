@@ -1,5 +1,6 @@
 # Local Engineering Blueprints (kept locally, not committed)
 0*.md
+docs/
 
 # Dependencies
 node_modules/

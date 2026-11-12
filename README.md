@@ -1,4 +1,4 @@
-﻿# 🌿 Progress Garden
+# 🌿 Progress Garden
 
 > **"Change the definition of success: You don't have to finish a habit today; you just have to move it forward."**
 
